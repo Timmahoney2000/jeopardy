@@ -1,1 +1,1 @@
-jeopardy clone
+jeopardy clone with minor changes
